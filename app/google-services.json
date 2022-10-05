@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "795560735734",
+    "project_id": "mllangproject",
+    "storage_bucket": "mllangproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795560735734:android:481f60582f59efa2cc0dd7",
+        "android_client_info": {
+          "package_name": "ru.tima.mllanguagetranslatejava"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795560735734-rfjt7h53sqprgojg0md35d199ha03rm5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoOCUQY1B22pyFvG-vqy6wjieuuVVVfeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795560735734-rfjt7h53sqprgojg0md35d199ha03rm5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795560735734:android:f2369f0724eda896cc0dd7",
+        "android_client_info": {
+          "package_name": "ru.tima.mllangugedetector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795560735734-rfjt7h53sqprgojg0md35d199ha03rm5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoOCUQY1B22pyFvG-vqy6wjieuuVVVfeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795560735734-rfjt7h53sqprgojg0md35d199ha03rm5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
